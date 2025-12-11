@@ -1,6 +1,6 @@
 # Prisma_Rewards
 
-Benvenuto nel glorioso, non ufficiale e assolutamente indispensabile archivio delle **PrismaLab awards**.  
+Benvenuto nel glorioso, non ufficiale e assolutamente indispensabile archivio delle **PrismaLab Rewards**.  
 Qui manteniamo con orgoglio i modelli 3D che celebrano i membri del laboratorio durante le premiazioni.
 
 Se stai cercando modelli seri, eleganti, professionali… questo non è il posto giusto.  
